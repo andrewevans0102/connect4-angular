@@ -3,6 +3,7 @@
 ![connect4](connect4.png)
 
 - This is the Angular version of my Connect 4 project.
+- To get to the Electron version of this same project please go [here](https://github.com/andrewevans0102/connect4-angular).
 - Check out the Electron version of this project [here](https://connect4-angular.firebaseapp.com).
 - This project uses [P5JS](https://p5js.org/) to render a Connect 4 board.
 - The original P5JS sketch that I used [can be found here](https://www.openprocessing.org/sketch/153535/).
